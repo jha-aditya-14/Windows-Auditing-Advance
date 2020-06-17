@@ -3,9 +3,7 @@ This is modification of Windows Auditing Old Version. A GUI desktop application 
 
 Policies will be shown in by this desktop application. So that it is eaiser to change Policies and Even Suggest us which polici setting is suitable of best for our system
 
-
-======================================// More About Windows Auditing \\==============================
-
+==============================// More About Windows Auditing \\======================
 
 
 => Security auditing is one of the most powerful tools that we can use to maintain the integrity of our system. As part of our overall security strategy, we can determine the level of auditing that is appropriate for our environment. Auditing should identify attacks (successful or not) that pose a threat to our network, and attacks against resources that we have determined to be valuable in our risk assessment.
