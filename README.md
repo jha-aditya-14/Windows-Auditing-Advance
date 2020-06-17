@@ -1,5 +1,10 @@
 # Windows-Auditing-Advance
 
+-By Aditya Jha and Gaurav Kumar Gupta
+
+https://github.com/aj14799 | https://github.com/Gaurav0824
+
+
 ### **************// On Going Project \\\\ *********************
 ==============================================================
 
@@ -33,6 +38,8 @@ Policies will be shown in by this desktop application. So that it is eaiser to c
 => wikipedia            :-             pip install wikipedia
 
 => win32com.shell.shell :-             pip install pywin32
+
+=> subprocess           :-             pip install subprocess.run or pip install subprocess
 
 ### =================// More About Windows Auditing \\\\======================
 
