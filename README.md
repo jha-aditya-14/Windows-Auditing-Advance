@@ -46,4 +46,5 @@ Advanced Audit Policy Configuration are available in the following categories:
    This category includes the following subcategories:
 
    =>File System (Global Object Access Auditing)
+   
    =>Registry (Global Object Access Auditing)
