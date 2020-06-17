@@ -10,6 +10,30 @@
 Policies will be shown in by this desktop application. So that it is eaiser to change Policies and Even Suggest us which polici setting is suitable of best for our system
 
 
+### ===============// Installation Modules \\======================
+
+=> PIL                  :-             pip install pillow
+
+=> sys                  :-             pip install sys
+
+=> sqlite3              :-             pip install bd-sqlite3
+
+=> webbrowser           :-             pip install webbrowser
+
+=> pycountry            :-             pip install pycountry 
+
+=> phonenumbers         :-             pip install phonenumbers
+
+=> smtplib              :-             pip install smtplib
+
+=> speech_recognition   :-             pip install SpeechRecognition
+
+=> pyttsx3              :-             pip install pyttsx3
+
+=> wikipedia            :-             pip install wikipedia
+
+=> win32com.shell.shell :-             pip install pywin32
+
 ### =================// More About Windows Auditing \\======================
 
 
@@ -52,3 +76,22 @@ Advanced Audit Policy Configuration are available in the following categories:
    =>File System (Global Object Access Auditing)
    
    =>Registry (Global Object Access Auditing)
+ 
+ 
+ ## ============= Images =============
+ 
+ 
+![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(200).png)
+
+![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(201).png)
+
+![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(202).png)
+
+![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(203).png)
+
+![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(204).png)
+
+![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(205).png)
+
+![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(206).png)
+
