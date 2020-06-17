@@ -81,6 +81,8 @@ Advanced Audit Policy Configuration are available in the following categories:
  ## ============= Images =============
  
  
+![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(206).png)
+
 ![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(200).png)
 
 ![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(201).png)
@@ -93,5 +95,5 @@ Advanced Audit Policy Configuration are available in the following categories:
 
 ![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(205).png)
 
-![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(206).png)
+
 
