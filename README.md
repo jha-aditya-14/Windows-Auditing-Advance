@@ -1,6 +1,6 @@
 # Windows-Auditing-Advance
 
-### **************// On Going Project \\ *********************
+### **************// On Going Project \\\\ *********************
 ==============================================================
 
 
@@ -10,7 +10,7 @@
 Policies will be shown in by this desktop application. So that it is eaiser to change Policies and Even Suggest us which polici setting is suitable of best for our system
 
 
-### ===============// Installation Modules \\======================
+### ===============// Installation Modules \\\\======================
 
 => PIL                  :-             pip install pillow
 
@@ -34,7 +34,7 @@ Policies will be shown in by this desktop application. So that it is eaiser to c
 
 => win32com.shell.shell :-             pip install pywin32
 
-### =================// More About Windows Auditing \\======================
+### =================// More About Windows Auditing \\\\======================
 
 
 => Security auditing is one of the most powerful tools that we can use to maintain the integrity of our system. As part of our overall security strategy, we can determine the level of auditing that is appropriate for our environment. Auditing should identify attacks (successful or not) that pose a threat to our network, and attacks against resources that we have determined to be valuable in our risk assessment.
@@ -78,7 +78,7 @@ Advanced Audit Policy Configuration are available in the following categories:
    =>Registry (Global Object Access Auditing)
  
  
- ## ============= Images =============
+ ## ============= // Images \\\\ =============
  
  
 ![alt text](https://github.com/aj14799/Windows-Auditing-Advance/blob/master/Pics/Screenshot%20(206).png)
