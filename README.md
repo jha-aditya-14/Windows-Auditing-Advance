@@ -5,7 +5,8 @@
 https://github.com/aj14799 | https://github.com/Gaurav0824
 
 
-## * All file are modifing her to reach a decent software. If You want to demo run the execute file Main
+## * All file are modifing here to reach a decent destop software level so that  can be run in all systems as installer. If You want to demo run then execute Main_File.py as it is almost previous version and will give yo an overview.
+
 
 ### **************// On Going Project \\\\ *********************
 ==============================================================
